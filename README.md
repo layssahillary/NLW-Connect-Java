@@ -1,5 +1,3 @@
-Aqui está um README estruturado para o seu projeto:  
-
 ```markdown
 # NLW Connect Java 🚀
 
@@ -11,22 +9,22 @@ Ao longo do curso, configurei o ambiente de desenvolvimento, utilizamos o **Spri
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17**  
-- **Spring Boot**  
-- **Spring Data JPA**  
-- **MySQL**  
-- **Maven**  
-- **Lombok**
-- **Docker** (para rodar o banco de dados)  
-- **Postman** (para testes das APIs)  
-- **MySQL Workbench** (para gerenciar o banco de dados)   
+- Java 17 
+- Spring Boot  
+- Spring Data JPA
+- MySQL 
+- Maven  
+- Lombok
+- Docker (para rodar o banco de dados)  
+- Postman (para testes das APIs)  
+- MySQL Workbench (para gerenciar o banco de dados)   
 
 ## 📋 Funcionalidades Implementadas
 
-✔️ **Cadastro e recuperação de eventos** por **ID** e **URL**  
-✔️ **Modelagem de entidades** para inscrição de usuários  
-✔️ **Validação de regras de negócio**  
-✔️ **Geração de relatórios**, incluindo:  
+✔️ Cadastro e recuperação de eventos por ID e URL
+✔️ Modelagem de entidades para inscrição de usuários  
+✔️ Validação de regras de negócio  
+✔️ Geração de relatórios, incluindo:  
    - Número total de inscritos  
    - Inscrições por indicação  
    - Ranking de usuários  
@@ -34,7 +32,7 @@ Ao longo do curso, configurei o ambiente de desenvolvimento, utilizamos o **Spri
 
 ## 📂 Estrutura do Projeto
 
-```
+
 NLW-Connect-Java
 │── src/main/java/br/com/nlw/events
 │   ├── controller        # Controllers da API
@@ -47,7 +45,7 @@ NLW-Connect-Java
 │   ├── application.properties  # Configuração do banco de dados
 │── pom.xml               # Gerenciamento de dependências (Maven)
 └── README.md             # Documentação do projeto
-```
 
 
-🚀 Projeto desenvolvido durante a **NLW Connect** by [@layssahillary](https://github.com/layssahillary).  
+
+🚀 Projeto desenvolvido durante a NLW Connect by [@layssahillary].  
